@@ -9,7 +9,7 @@ export class ProfessoresComponent implements OnInit {
 
   titulo = "Professores";
 
-  public professores = [
+  public professor = [
     { nome: "Eduardo" },
     { nome: "Lucimara "},
     { nome: "Eliana" },
